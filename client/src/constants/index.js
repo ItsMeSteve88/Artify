@@ -44,5 +44,8 @@ export const surpriseMePrompts = [
     'Dracula walking down the street of New York City in the 1920s, black and white photography',
     'Synthwave aeroplane',
     'A man wanders through the rainy streets of Tokyo, with bright neon signs, 50mm',
-    'A Space Shuttle flying above Cape Town, digital art',
+  'A Space Shuttle flying above Cape Town, digital art',
+  'Film still, gangster squirrel counting his money, low angle, shot from below, worms eye view',
+  'A marble Greek statue of Goku from Dragon Ball Z',
+    'Good morning, in the style of The Matrix, digital art',
   ];

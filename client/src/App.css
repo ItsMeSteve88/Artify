@@ -1,3 +1,8 @@
+@font-face {
+  font-family: 'Raleway';
+  src: url(./assets/fonts/artify-raleway-light.ttf);
+}
+
 #root {
   max-width: 1280px;
   margin: 0 auto;
